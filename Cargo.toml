@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "apps/edge-node",
+    "core/proxy",
+    "core/telemetry"
+]
